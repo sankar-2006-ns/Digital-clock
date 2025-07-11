@@ -21,3 +21,5 @@ This is a simple Digital Clock GUI application built using Python's tkinter libr
   No external libraries needed (only tkinter which is included with Python)
 
 📸 Preview
+
+<img width="483" height="128" alt="Image" src="https://github.com/user-attachments/assets/f542660a-56e8-4e3f-8cd7-f0039cb24672" />
